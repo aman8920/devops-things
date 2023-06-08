@@ -1,0 +1,58 @@
+git - version control system
+
+clone - to get code from repo to local
+git init - to initialise a git repo
+
+git remote add origin <repo link>  --  to tell git about the online repo
+
+git clone <repolink>
+
+git status -  shows the update in the file
+
+add - tell git to track changes
+git add -tells the git to track the specified files cause there may be files where changes are not being tracked.
+
+commit -  to make change locally
+git commit -m <message>   - to change to be saved locally
+
+--  generate a keypair and add that to your github account so that ur local git terminal can connect to ur repo
+
+
+push - local to online 
+git push origin master - 
+git push  - 
+pull - online to local
+
+git branch -  to check branches
+git checkout - to switch branches and -b to create a new branch 
+git diff - to check difference between branches
+git merge -  to merge the codes
+git reset -to unstage the changes 
+
+
+
+ant - 
+maven - 
+authentication token - 
+branch api - 
+build with parameter -
+git -
+conditionbuild setup
+config file provider -
+credentials -
+cvs  -
+docker pipeline -
+email extension -
+git client -
+git server -
+jquery -
+junit -
+ldap -
+mailer -
+maven -
+parametrized trigger -
+pipeline - 
+role based authorization -
+scm api 
+ssh build agent -
+ssh credentials -
